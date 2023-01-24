@@ -6,14 +6,8 @@
 <h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
-  <a href="(https://shreya3106.github.io/Portfolio/)">shreya3106.github.io/Portfolio</a>
+  <a href="(https://shreya3106.github.io/Portfolio/)">https://shreya3106.github.io/Portfolio</a>
 </h2>
-
-<div align="center">
-  <a href="https://shreya3106.github.io/Portfolio/">
-    <img alt="Mockup" src="https://user-images.githubusercontent.com/64855541/148080556-ec9d5062-1092-4bd4-ba12-82a153e32985.png" />
-  </a>
-</div>
 
 <br/>
 

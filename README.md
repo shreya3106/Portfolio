@@ -6,7 +6,7 @@
 <h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
-  <a href="(https://shreya3106.github.io/Portfolio/)">https://shreya3106.github.io/Portfolio</a>
+  <a href="(https://theshreyaa.github.io/)">https://shreya3106.github.io/Portfolio</a>
 </h2>
 
 <br/>
@@ -32,7 +32,7 @@
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://shreya3106.github.io/Portfolio/)**
+To view a live example, **[click here](https://theshreyaa.github.io/)**
 
 ## Tools Used 🛠️
 

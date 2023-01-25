@@ -6,7 +6,7 @@
 <h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
-  <a href="(https://theshreyaa.github.io/)"</a>
+  <a href="https://theshreyaa.github.io/">theshreyaa.github.io</a>
 </h2>
 
 <br/>
